@@ -9,6 +9,15 @@ Il lui faut une refonte de son site internet.
 
 Le but de se projet est de proposer une ou plusieurs tuiles graphique pour la refonte de son site internet.
 
+##Elements importants
+- Principe du concours
+- Trailers
+- Prix
+- Le jury
+- Les résultats (vidéo)
+- Partenaires
+
 ##Inspiration
 
+Ancien site : http://concours-unanime.com/
 Tableau pinterest : https://fr.pinterest.com/ShikamaruNara76/styletiles/
