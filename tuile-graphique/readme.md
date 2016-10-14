@@ -2,12 +2,12 @@
 
 ##Contexte
 
-Un'anime, concours d'animation pour étudiants passionnés d'animatiion, entre dans 2ème édition cette année. Ainsi sa charte graphique doit être remaniée.
+Un'anime, concours d'animation pour étudiants passionnés d'animation, entre dans 2ème édition cette année. Ainsi sa charte graphique doit être remaniée.
 Il lui faut une refonte de son site internet.
 
 ##But du projet
 
-Le but de se projet et de proposer une ou plusieurs tuiles graphique pour la refonte de son site internet.
+Le but de se projet est de proposer une ou plusieurs tuiles graphique pour la refonte de son site internet.
 
 ##Inspiration
 
