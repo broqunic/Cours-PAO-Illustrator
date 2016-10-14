@@ -16,8 +16,10 @@ Le but de se projet est de proposer une ou plusieurs tuiles graphique pour la re
 - Le jury
 - Les résultats (vidéo)
 - Partenaires
+- Liens sociaux
 
 ##Inspiration
 
 Ancien site : http://concours-unanime.com/
+
 Tableau pinterest : https://fr.pinterest.com/ShikamaruNara76/styletiles/
