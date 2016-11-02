@@ -31,6 +31,14 @@ Les textures papier et sketch mettent en avant le côté dessin, animation et cr
 Les éléments utilisés sont presque uniquement des formes simples puisque le but n'est pas de partir dans un concours trop sophistiqué et éllitiste.
 La simplicité et l'accessibilité sont des faits importants.
 
+##Inspiration
+
+Ancien site : http://concours-unanime.com/
+
+Tableau pinterest : https://fr.pinterest.com/ShikamaruNara76/styletiles/
+
+Themeforest : https://themeforest.net/
+
 
 ----------------
 *Nicolas Broquet novembre 2016*
