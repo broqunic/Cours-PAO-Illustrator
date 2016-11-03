@@ -42,7 +42,7 @@ Exemple, idée d'un nuancier de couleur : https://www.suamayin365.com/pleasant-s
 
 Couleurs :http://www.cocorrina.com/2014/10/new-in-portfolio-house-of-tax-branding.html#disqus_thread
 
-Couleurs : https://boagworld.com/reviews/why-some-projects-just-go-right/
+https://boagworld.com/reviews/why-some-projects-just-go-right/
 
 Textures : http://gritandwitdesign.com/2013910brand-reveal-you-are-raven-photography/
 
