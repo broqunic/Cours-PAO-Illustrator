@@ -25,3 +25,11 @@ Ancien site : http://concours-unanime.com/
 Tableau pinterest : https://fr.pinterest.com/ShikamaruNara76/styletiles/
 
 Themeforest : https://themeforest.net/
+
+Exemple, idée d'un nuancier de couleur : https://www.suamayin365.com/pleasant-style-tile-evercreech/
+
+Couleurs :http://www.cocorrina.com/2014/10/new-in-portfolio-house-of-tax-branding.html#disqus_thread
+
+Couleurs : https://boagworld.com/reviews/why-some-projects-just-go-right/
+
+Textures : http://gritandwitdesign.com/2013910brand-reveal-you-are-raven-photography/
