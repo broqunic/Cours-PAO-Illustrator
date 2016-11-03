@@ -28,6 +28,9 @@ Petit et moyen studio (Xilam, Marathon...)
 
 ##Inspiration
 
+Méthodes : http://styletil.es/
+           https://webdesignledger.com/style-tiles-for-web-design/
+
 Ancien site : http://concours-unanime.com/
 
 Tableau pinterest : https://fr.pinterest.com/ShikamaruNara76/styletiles/
