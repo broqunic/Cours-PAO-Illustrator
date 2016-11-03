@@ -42,6 +42,8 @@ Couleurs : https://boagworld.com/reviews/why-some-projects-just-go-right/
 
 Textures : http://gritandwitdesign.com/2013910brand-reveal-you-are-raven-photography/
 
+Slider accueil : http://castle-themes.com/bakob-demos/graphic-design/
+
 --------------
 
 _Nicolas Broquet novembre 2016_
