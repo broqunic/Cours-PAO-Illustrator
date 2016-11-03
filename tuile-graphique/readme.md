@@ -11,10 +11,10 @@ Le but de se projet est de proposer une ou plusieurs tuiles graphique pour la re
 
 ##Périmètre
 
-Jeunes 13 - 26 ans
-Etudiants
-Passionné d'animation
-Petit et moyen studio (Xilam, Marathon...)
+- Jeunes 13 - 26 ans
+- Etudiants
+- Passionné d'animation
+- Petit et moyen studio (Xilam, Marathon...)
 
 ##Elements importants
 
@@ -29,7 +29,7 @@ Petit et moyen studio (Xilam, Marathon...)
 ##Inspiration
 
 Méthodes : http://styletil.es/
-           https://webdesignledger.com/style-tiles-for-web-design/
+https://webdesignledger.com/style-tiles-for-web-design/
 
 Ancien site : http://concours-unanime.com/
 
