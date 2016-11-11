@@ -11,6 +11,9 @@
 </g>
 <g id="grille_horizontale" style="display:none;">
 </g>
+<g id="fond">
+	<rect style="fill:#FFFFFF;" width="1280" height="803"/>
+</g>
 <g id="textes">
 	<g>
 		<rect x="274" y="237.688" style="fill:none;" width="354" height="246.313"/>
